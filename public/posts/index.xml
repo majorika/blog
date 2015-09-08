@@ -6,8 +6,115 @@
     <description>Recent content in Posts on 앱 개발 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 08 Jul 2014 21:09:41 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2015 22:02:41 +0900</lastBuildDate>
     <atom:link href="http://app.majorika.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>&#39;루시아의 방&#39; iOS 1.2 출시</title>
+      <link>http://app.majorika.net/posts/2015-08-17-22-02/</link>
+      <pubDate>Mon, 17 Aug 2015 22:02:41 +0900</pubDate>
+      
+      <guid>http://app.majorika.net/posts/2015-08-17-22-02/</guid>
+      <description>&lt;p&gt;말도없이 조용히 1.2가 업데이트 되었습니다. 페이징처리 없이 100개까지 보이는 제약이 있었는데 이번 업데이트로 로딩만 하면 제한없이 내용을 확인할 수 있게 되었습니다. :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#39;루시아의 방&#39; 구글 플레이 스토어 1.0.8 출시</title>
+      <link>http://app.majorika.net/posts/2015-06-16-20-21/</link>
+      <pubDate>Tue, 16 Jun 2015 20:21:41 +0900</pubDate>
+      
+      <guid>http://app.majorika.net/posts/2015-06-16-20-21/</guid>
+      <description>&lt;p&gt;역시나 급하게 올렸더니 문제가 있었습니다. 안드로이드 5.0 버전에서 YoutubePlayer 라이브러리쪽 오류가 생겨서 업데이트 된 것을 확인하지 못했었네요. 아무튼 지금은 고쳐져서 다시 1.0.8 버전이 출시되어 있습니다! :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#39;루시아의 방&#39; 구글 플레이 스토어 1.0.7 출시</title>
+      <link>http://app.majorika.net/posts/2015-06-16-02-13/</link>
+      <pubDate>Tue, 16 Jun 2015 02:13:41 +0900</pubDate>
+      
+      <guid>http://app.majorika.net/posts/2015-06-16-02-13/</guid>
+      <description>&lt;p&gt;안드로이드 버전은 1.0.6으로 출시하고 거의 1년만에 업데이트하게 되었습니다. 급한 마음에 만들다보니 Parse Query 기본 limit값(100)을 고려하지 않고 만들어 버려서, 100개 초과된 내용은 볼 수 없는 문제가 발생하게 되었습니다.
+(현재 iOS도 같은 오류가 발생하고 있습니다. 이것도 얼른 수정할게요!)&lt;/p&gt;
+
+&lt;p&gt;이번에 올라간 1.0.7 버전에는 &amp;lsquo;더보기&amp;rsquo; 버튼이 추가되어서, 100개 이상의 내용도 볼 수 있게 되었습니다. :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#39;루시아의 방&#39; iOS 1.1 출시</title>
+      <link>http://app.majorika.net/posts/2015-06-06-16-44/</link>
+      <pubDate>Sat, 06 Jun 2015 16:44:41 +0900</pubDate>
+      
+      <guid>http://app.majorika.net/posts/2015-06-06-16-44/</guid>
+      <description>&lt;p&gt;애플 심사 기간이 꽤 길게 걸려서 오늘 새벽에 통과가 되었습니다. :)&lt;/p&gt;
+
+&lt;p&gt;큰 변경점은 없고, 뮤직 비디오가 보이지 않던 오류가 수정되었습니다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#39;루시아의 방&#39; iOS 1.1 업데이트 중</title>
+      <link>http://app.majorika.net/posts/2015-05-27-00-24/</link>
+      <pubDate>Wed, 27 May 2015 00:24:41 +0900</pubDate>
+      
+      <guid>http://app.majorika.net/posts/2015-05-27-00-24/</guid>
+      <description>&lt;p&gt;Youtube쪽 API가 v3으로 강제되면서 생긴 문제점인지는 모르겠지만, iOS 버전에서 특정 동영상들이 재생이 되지 않는 문제가 발생했습니다. 해당 문제점을 수정하고, 1.1 버전을 제출한 상태입니다. 7~8일 정도면 1.1 버전이 출시될 것으로 생각됩니다.&lt;/p&gt;
+
+&lt;p&gt;불편하시더라도 조금만 기다려주세요. :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#39;다시, 봄&#39; 안드로이드 라이브 배경화면 출시</title>
+      <link>http://app.majorika.net/posts/2015-03-31-23-33/</link>
+      <pubDate>Tue, 31 Mar 2015 23:33:41 +0900</pubDate>
+      
+      <guid>http://app.majorika.net/posts/2015-03-31-23-33/</guid>
+      <description>&lt;p&gt;지난 3월에 &amp;lsquo;다시, 봄&amp;rsquo; 이라는 제목으로 루시아님의 공연이 있었습니다. 공연 전 샤막에 재생되던 영상이 마음에 들기도 하고, 공연의 여운을 길게 느낄 수 있을 것 같아서, 영상을 제작자분께 구두로 양해를 구하고 부랴부랴 작업해서 공연 다음주에 급하게 출시를 하게 되었습니다.&lt;/p&gt;
+
+&lt;p&gt;출시 이후 잠금화면이 설정 가능했으면 더 좋았겠다는 생각이 들었지만, 본업이 좀 정신없는 관계로 작업은 못하고 있네요. 어느날 작업해보도록 하겠습니다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#39;루시아의 방&#39; 아이폰 앱 출시</title>
+      <link>http://app.majorika.net/posts/2015-01-24-18-22/</link>
+      <pubDate>Sat, 24 Jan 2015 18:22:41 +0900</pubDate>
+      
+      <guid>http://app.majorika.net/posts/2015-01-24-18-22/</guid>
+      <description>&lt;p&gt;다행히 한번에 통과가 되었네요. 하긴 크게 기능이 없기 때문에 다행이 잘 통과가 되었습니다. 심사 올린지 2주만에 In review로 들어가더니 11분만에 통과 된 것은 좀 색다른 경험이었지만요.&lt;/p&gt;
+
+&lt;p&gt;즐겁게 오픈 소식을 알리다가 엄청나게 오타를 내서 재미난 일도 있었지만요.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#39;루시아의 방&#39; 애플 앱 제출</title>
+      <link>http://app.majorika.net/posts/2015-01-15-01-11/</link>
+      <pubDate>Thu, 15 Jan 2015 01:11:41 +0900</pubDate>
+      
+      <guid>http://app.majorika.net/posts/2015-01-15-01-11/</guid>
+      <description>&lt;p&gt;연말 애플 앱스토어 휴일 전에 넣어야지 하는 생각으로 준비하던 것이 좀 꼬여서&amp;hellip; (실은 귀차니즘으로) 이제야 제출이 되었습니다. 심사 기간이 얼마나 걸릴지 모르겠지만, 10여일 정도면 되지 않나 싶은데, 리젝을 맞지는 않겠죠&amp;hellip;!?&lt;/p&gt;
+
+&lt;p&gt;최대한 구글 버전과 동일한 레이아웃이라던가, 기능을 넣으려고 노력했지만, 구글 자체도 그리 미려하지 못한 모양새임으로, 차차 수정해야겠죠. 유니버설 앱이라서 아이패드에서도 사용은 되지만, 레이아웃은 못 봐줄 정도입니다. (귀차니즘이 다시) 이것도 차차 수정하겠습니다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#39;루시아의 방&#39; 아이폰 앱 개발중</title>
+      <link>http://app.majorika.net/posts/2014-12-11-01-58/</link>
+      <pubDate>Thu, 11 Dec 2014 01:58:41 +0900</pubDate>
+      
+      <guid>http://app.majorika.net/posts/2014-12-11-01-58/</guid>
+      <description>&lt;p&gt;&amp;lsquo;루시아의 방&amp;rsquo; 안드로이드 버전이 처음 만들어졌을 때, 여러 아이폰 사용자분들께서 아이폰 버전은 언제 나오는지 궁금해하셔서, &amp;lsquo;만들어야 하는데, 만들어야 하는데..&amp;rsquo; 이렇게 미뤄만 오던 아이폰 버전이 조금씩 개발되어 가고 있습니다.&lt;/p&gt;
+
+&lt;p&gt;안드로이드 버전과 아이폰 버전의 모양, 기능이 완전히 동일하면 좋겠지만, 이런 저런 차이점 때문에 생기는 것은 극복할 길이 없어서 통합해서 한번에 개발하는 것은 포기하고 양쪽 플랫폼 코드에 맞추어 작업하고 있습니다.&lt;/p&gt;
+
+&lt;p&gt;크리스마스 전에 앱스토어에 공개될 수 있으면 좋겠네요! :)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>&#39;루시아의 방&#39; 구글 플레이 스토어 출시</title>
