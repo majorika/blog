@@ -19,6 +19,6 @@ echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
 # Push source and build repos.
 git push origin master
-git subtree split --rejoin --prefix public git@github.com:majorika/majorika.github.io.git master --squash
+git subtree push --prefix public git@github.com:majorika/majorika.github.io.git master --squash
 
 echo -e "\033[0;32mChanges successfully published!\033[0m"
