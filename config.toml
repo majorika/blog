@@ -4,6 +4,16 @@ title = "앱 개발 블로그"
 theme = "hyde"
 
 [params]
-	themeColor = "theme-base-0d"
-	description = "이런 저런 개발 이야기가 적히는 곳입니다."
-	disqusShortname = "majorika"
+themeColor = "theme-base-0d"
+description = "이런 저런 개발 이야기가 적히는 곳입니다."
+disqusShortname = "majorika"
+
+[[menu.main]]
+name = "Twitter"
+url = "https://twitter.com/majorika"
+weight = 1
+
+[[menu.main]]
+name = "Github"
+url = "https://github.com/majorika"
+weight = 2
