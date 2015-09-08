@@ -19,6 +19,6 @@ echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
 # Push source and build repos.
 git push origin master
-`git subtree --prefix=public git@github.com:majorika/majorika.github.io.git public`
+`git subtree --prefix=public git@github.com:majorika/majorika.github.io.git master`
 
 echo -e "\033[0;32mChanges successfully published!\033[0m"
