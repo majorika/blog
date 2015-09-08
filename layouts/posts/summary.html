@@ -5,7 +5,7 @@
   <section id="main">
     {{ .Content }}
 	<footer class="myclass">
-		<div class="meta">{{ .Date.Format "Jan 2, 2006" }}</div>
+		<div class="meta">{{ .Date.Format "2006-01-02 01:02" }}</div>
 		{{ template "chrome/categories.html" . }}
 	</footer>
   </section>
