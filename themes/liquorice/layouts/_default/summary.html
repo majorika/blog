@@ -6,7 +6,9 @@
     <section class="li-article-section">
         {{ .Summary }}
     </section>
+    {{ if .Truncated }}
     <footer>
         <a href='{{ .Permalink }}'>More</a>
     </footer>
+    {{ end }}
 </article>
