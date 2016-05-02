@@ -10,7 +10,7 @@ description = "이런 저런 개발 이야기가 적히는 곳입니다."
 disqusShortname = "majorika"
 
 [[menu.main]]
-name = "Articles"
+name = "Archives"
 url = "http://app.majorika.net/posts"
 weight = 1
 
