@@ -3,6 +3,9 @@ rm -rf public
 # Build the project.
 hugo
 
+rm ./public/used-opensource/index.*
+rm ./public/what-i-made/index.*
+
 echo -e "\033[0;32mCommitting changes...\033[0m"
 
 # Add changes to git.

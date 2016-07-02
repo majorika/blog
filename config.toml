@@ -5,7 +5,6 @@ theme = "liquorice"
 
 [params]
 author = "majorika"
-themeColor = "theme-base-0d"
 description = "이런 저런 개발 이야기가 적히는 곳입니다."
 disqusShortname = "majorika"
 
