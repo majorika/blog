@@ -7,6 +7,7 @@ theme = "liquorice"
 author = "majorika"
 description = "이런 저런 개발 이야기가 적히는 곳입니다."
 disqusShortname = "majorika"
+gaCode = "UA-80230888-1"
 
 [[menu.main]]
 name = "Archives"
