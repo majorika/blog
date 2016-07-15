@@ -5,7 +5,7 @@
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
 
-        <title>&#39;루시아의 방&#39; iOS 1.3.3 업데이트 &middot; 앱 개발 블로그</title>
+        <title>Homebrew cask install 할 때 Caskroom 마이그레이션 경고 해결하기 &middot; 앱 개발 블로그</title>
         <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600' type='text/css'>
         <link rel="stylesheet" href="http://app.majorika.net/libraries/normalize.3.0.1.css" />
         <link rel="stylesheet" href="http://app.majorika.net/css/liquorice.css" />
@@ -61,17 +61,24 @@
             <div class="sixteen columns">
                 <article class="li-article">
                     <header class="li-article-header">
-                        <h1 class="li-article-title">&#39;루시아의 방&#39; iOS 1.3.3 업데이트</h1>
+                        <h1 class="li-article-title">Homebrew cask install 할 때 Caskroom 마이그레이션 경고 해결하기</h1>
                         <span class="li-article-taxonomies">
                             
 
                             
                         </span>
                         
-                        <time class="li-article-date">Wednesday, July 13, 2016</time>
+                        <time class="li-article-date">Saturday, July 16, 2016</time>
                     </header>
                     <section>
-                        <p>이번에도 큰 변경점은 없는, 동영상 재생 오류를 해결하기 위한 업데이트입니다. :)</p>
+                        <p>기본 Caskroom 경로가 변경되어서 발생하는 경고로, 이전 경로를 계속 사용하도록 환경변수에 옵션을 추가해줄 수 있지만, 깔끔하게 옮기기는 방법을 선택했습니다.</p>
+
+<pre><code>mv /opt/homebrew-cask/ /usr/local
+sudo rm -fr /opt/homebrew-cask
+brew cask install --force $(brew cask list)
+</code></pre>
+
+<p>참고 : <a href="https://github.com/caskroom/homebrew-cask/issues/21913">https://github.com/caskroom/homebrew-cask/issues/21913</a></p>
 
                     </section>
                 </article>
@@ -89,8 +96,7 @@
             <div class="eight columns">
                 <div class="li-pagination-previous">
                     
-                        Later article<br />
-                        <a href="http://app.majorika.net/posts/brew-cask-migration-issue-21913/"> Homebrew cask install 할 때 Caskroom 마이그레이션 경고 해결하기</a>
+                        &nbsp;
                     
                 </div>
             </div>
@@ -98,7 +104,7 @@
                 <div class="li-pagination-next">
                     
                         Older article<br />
-                        <a href="http://app.majorika.net/posts/emocon-720-review/"> 이모콘 720 &#39;모두의 관리&#39; 후기</a>
+                        <a href="http://app.majorika.net/posts/a-room-for-lucia-ios-1-3-3/"> &#39;루시아의 방&#39; iOS 1.3.3 업데이트</a>
                     
                 </div>
             </div>

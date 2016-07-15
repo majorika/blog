@@ -6,8 +6,24 @@
     <description>Recent content on 앱 개발 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 13 Jul 2016 03:09:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jul 2016 05:52:57 +0900</lastBuildDate>
     <atom:link href="http://app.majorika.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Homebrew cask install 할 때 Caskroom 마이그레이션 경고 해결하기</title>
+      <link>http://app.majorika.net/posts/brew-cask-migration-issue-21913/</link>
+      <pubDate>Sat, 16 Jul 2016 05:52:57 +0900</pubDate>
+      <guid>http://app.majorika.net/posts/brew-cask-migration-issue-21913/</guid>
+      <description>&lt;p&gt;기본 Caskroom 경로가 변경되어서 발생하는 경고로, 이전 경로를 계속 사용하도록 환경변수에 옵션을 추가해줄 수 있지만, 깔끔하게 옮기기는 방법을 선택했습니다.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;mv /opt/homebrew-cask/ /usr/local
+sudo rm -fr /opt/homebrew-cask
+brew cask install --force $(brew cask list)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;참고 : &lt;a href=&#34;https://github.com/caskroom/homebrew-cask/issues/21913&#34;&gt;https://github.com/caskroom/homebrew-cask/issues/21913&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>&#39;루시아의 방&#39; iOS 1.3.3 업데이트</title>
