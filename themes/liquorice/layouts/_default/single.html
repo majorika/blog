@@ -41,7 +41,7 @@
         <div class="row li-pagination">
             <div class="eight columns">
                 <div class="li-pagination-previous">
-                    {{with .Prev}}
+                    {{with .PrevInSection}}
                         Later article<br />
                         <a href="{{.Permalink}}"> {{.Title}}</a>
                     {{else}}
@@ -51,7 +51,7 @@
             </div>
             <div class="eight columns">
                 <div class="li-pagination-next">
-                    {{with .Next}}
+                    {{with .NextInSection}}
                         Older article<br />
                         <a href="{{.Permalink}}"> {{.Title}}</a>
                     {{else}}
