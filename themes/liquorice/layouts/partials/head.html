@@ -3,44 +3,26 @@
     <head>
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
-
         <meta name="twitter:card" content="summary">
         <meta name="twitter:creator" content="@{{ .Site.Params.twitter }}">
         <meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
-        {{ if .Section -}}
-            <meta name="twitter:title" content="{{ .Title }} &middot; {{ .Site.Title }}">
-        {{- else -}}
-            <meta name="twitter:title" content="{{ .Site.Title }}">
-        {{- end }}
-        {{ if .Section -}}
-            <meta name="twitter:description" content="{{ .Description }}">
-        {{- else -}}
-            <meta name="twitter:description" content="{{ .Site.Params.description }}">
-        {{- end }}
-
+        <meta name="twitter:title" content="{{- if not .IsHome -}} {{- .Title }} &middot; {{ .Site.Title -}} {{- else }}
+            {{- .Site.Title -}} {{- end -}}">
+        <meta name="twitter:description" content="{{- if not .IsHome -}} 
+        {{- if not .Description -}} {{- .Title }} &middot; {{ .Site.Title -}} {{- else -}} {{- .Description -}} {{- end -}} {{- else -}} {{- .Site.Params.description -}} {{- end -}}">
         <meta property="og:locale" content="{{ .Site.Params.Locale }}" />
         <meta property="og:type" content="website" />
-        {{ if .Section -}}
-        <meta name="og:title" content="{{ .Title }} &middot; {{ .Site.Title }}">
-        {{- else -}}
-        <meta name="og:title" content="{{ .Site.Title }}">
-        {{- end }}
-        {{ if .Section -}}
-        <meta name="og:description" content="{{ .Description }}">
-        {{- else -}}
-        <meta name="og:description" content="{{ .Site.Params.description }}">
-        {{- end }}
+        <meta name="og:title" content="{{- if not .IsHome -}} {{- .Title }} &middot; {{ .Site.Title -}} {{- else -}} {{- .Site.Title -}} {{- end -}}">
+        <meta name="og:description" content="{{- if not .IsHome -}} {{- .Description -}} {{- if not .Description -}} {{- .Title }} &middot; {{ .Site.Title -}} {{- end -}} {{- else -}} {{- .Site.Params.description -}} {{- end -}}">
         <meta property="og:url" content="{{ .Permalink }}"/>
         <meta name="og:site_name" content="{{ .Site.Title }}">
-
         <title>
-            {{- if .Section -}}
-                {{- .Title -}} &middot; {{ .Site.Title }}
+            {{- if not .IsHome -}}
+                {{- .Title }} &middot; {{ .Site.Title }}
             {{- else -}}
                 {{- .Site.Title -}}
             {{- end -}}
         </title>
-
         <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600' type='text/css'>
         <link rel="stylesheet" href="{{ .Site.BaseURL }}/libraries/normalize.3.0.1.css" />
         <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/liquorice.css" />
