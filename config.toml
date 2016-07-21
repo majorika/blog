@@ -1,6 +1,6 @@
+title = "앱 개발 블로그"
 baseurl = "http://app.majorika.net"
 languageCode = "ko"
-title = "앱 개발 블로그"
 theme = "liquorice"
 
 [params]
@@ -8,6 +8,8 @@ author = "majorika"
 description = "이런 저런 개발 이야기가 적히는 곳입니다."
 disqusShortname = "majorika"
 gaCode = "UA-80230888-1"
+twitter = "majorika"
+Locale = "ko_KR"
 
 [[menu.main]]
 name = "Archives"
