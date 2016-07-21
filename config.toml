@@ -25,3 +25,8 @@ weight = 2
 name = "Github"
 url = "https://github.com/majorika"
 weight = 3
+
+[sitemap]
+changefreq = "monthly"
+ priority = 0.5
+ filename = "sitemap.xml"
