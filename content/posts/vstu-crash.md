@@ -1,7 +1,7 @@
 +++
 date = "2017-02-01T21:16:03+09:00"
 title = "Visual Studio 2015 Tools for Unity Crash"
-tags = ["vstu crash"]
+tags = ["Unity3d", "vstu crash"]
 description = "어느날 갑자기 VS2015가 크래시가 나기 시작했다면,"
 +++
 
