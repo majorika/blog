@@ -6,8 +6,30 @@
     <description>Recent content in 앱 개발 블로그 on 앱 개발 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 16 Aug 2017 04:04:03 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 02 Sep 2017 01:47:03 +0900</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Type-Driven Development with Idris 스터디 3회차</title>
+      <link>http://app.majorika.net/posts/idris-study-03/</link>
+      <pubDate>Sat, 02 Sep 2017 01:47:03 +0900</pubDate>
+      <guid>http://app.majorika.net/posts/idris-study-03/</guid>
+      <description>&lt;p&gt;1일 2장씩을 진도로 생각했었지만, 지난주 3장이 꽤 길었어서 3장까지만 진행되고, 4장은 이번 3회차에 진행하게 되었다.&lt;/p&gt;
+
+&lt;p&gt;4장은 사용자 정의 자료형에 대해서 설명하고, Enumerations, Union types, Recursive types, Generic types 등을 설명하고 장 마지막에서 커맨드라인 프로그램 작성하는 예제를 보여줬다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Type-Driven Development with Idris 스터디 2회차</title>
+      <link>http://app.majorika.net/posts/idris-study-02/</link>
+      <pubDate>Sat, 02 Sep 2017 01:42:03 +0900</pubDate>
+      <guid>http://app.majorika.net/posts/idris-study-02/</guid>
+      <description>&lt;p&gt;8월 16일 1회차에 2장까지 끝내고, 3장을 진행했다. 함수형 언어자체는 Common Lisp가 처음 접해본 것이었고, elixir가 두번째였는데, elixir가 문법이 마음에 들어서 혹했다가 Idris가 좀 더 재미난 것 같다. (아직까지는..)&lt;/p&gt;
+
+&lt;p&gt;3장은 Interactive development with types라고해서 함수 작성하고, interactive한 개발 방법 안내, 정도를 설명하고 있었다.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Type-Driven Development with Idris 스터디 1회차</title>
