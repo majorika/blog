@@ -1,5 +1,5 @@
 title = "앱 개발 블로그"
-baseurl = "http://app.majorika.net"
+baseurl = "https://app.majorika.net"
 languageCode = "ko"
 theme = "liquorice"
 
@@ -13,7 +13,7 @@ Locale = "ko_KR"
 
 [[menu.main]]
 name = "Archives"
-url = "http://app.majorika.net/posts"
+url = "https://app.majorika.net/posts"
 weight = 1
 
 [[menu.main]]
