@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Used-opensources on 앱 개발 블로그</title>
+    <link>https://app.majorika.net/used-opensource/</link>
+    <description>Recent content in Used-opensources on 앱 개발 블로그</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Fri, 24 Jun 2016 04:48:07 +0900</lastBuildDate>
+    
+	<atom:link href="https://app.majorika.net/used-opensource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&#39;다시, 봄&#39; 에서 사용중인 오픈소스 목록</title>
+      <link>https://app.majorika.net/used-opensource/spring-again-android/</link>
+      <pubDate>Fri, 24 Jun 2016 04:48:07 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/used-opensource/spring-again-android/</guid>
+      <description> libgdx    https://github.com/libgdx/libgdx copyright © 2013 Mario Zechner Apache 2 License    universal tween engine    https://github.com/AurelienRibon/universal-tween-engine Aurelien Ribon Apache License 2.0   </description>
+    </item>
+    
+    <item>
+      <title>&#39;Abyss&#39; 에서 사용중인 오픈소스 목록</title>
+      <link>https://app.majorika.net/used-opensource/abyss-magazine-ios/</link>
+      <pubDate>Thu, 23 Jun 2016 18:18:34 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/used-opensource/abyss-magazine-ios/</guid>
+      <description> Bakerframework    https://github.com/bakerframework/baker Copyright &amp;copy; 2010-2013, Davide Casali, Marco Colombo, Alessandro Morandi BSD License    AsyncImageView    https://github.com/nicklockwood/AsyncImageView Copyright &amp;copy; 2011 Charcoal Design zlib License    iCarousel    https://github.com/nicklockwood/iCarousel Copyright 2011 Charcoal Design zlib License    Parse SDK for iOS/OS X/watchOS/tvOS    https://github.com/ParsePlatform/Parse-SDK-iOS-OSX Copyright &amp;copy; 2015-present, Parse, LLC. BSD License   </description>
+    </item>
+    
+    <item>
+      <title>&#39;루시아의 방&#39; 에서 사용중인 오픈소스 목록</title>
+      <link>https://app.majorika.net/used-opensource/a-room-for-lucia-android/</link>
+      <pubDate>Thu, 23 Jun 2016 18:17:39 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/used-opensource/a-room-for-lucia-android/</guid>
+      <description> ion    https://github.com/koush/ion Copyright 2013 Koushik Dutta (2013) Apache License, Version 2.0    FirebaseUI-Android    https://github.com/firebase/FirebaseUI-Android Google Inc. Apache License, Version 2.0   </description>
+    </item>
+    
+    <item>
+      <title>&#39;루시아의 방&#39; 에서 사용중인 오픈소스 목록</title>
+      <link>https://app.majorika.net/used-opensource/a-room-for-lucia-ios/</link>
+      <pubDate>Thu, 23 Jun 2016 18:17:27 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/used-opensource/a-room-for-lucia-ios/</guid>
+      <description> MMDrawerController    https://github.com/mutualmobile/MMDrawerController Copyright &amp;copy; 2013 Mutual Mobile (http://mutualmobile.com/) MIT license    Haneke    https://github.com/Haneke/Haneke Copyright &amp;copy; 2014 Hermes Pique. All rights reserved. Apache License, Version 2.0    XCDYouTubeKit    https://github.com/0xced/XCDYouTubeKit Copyright &amp;copy; 2013-2016 Cédric Luthi. All rights reserved. MIT License    Parse SDK for iOS/OS X/watchOS/tvOS    https://github.com/ParsePlatform/Parse-SDK-iOS-OSX Copyright &amp;copy; 2015-present, Parse, LLC. BSD License   </description>
+    </item>
+    
+  </channel>
+</rss>
