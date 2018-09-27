@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 앱 개발 블로그</title>
+    <link>https://app.majorika.net/tags/</link>
+    <description>Recent content in Tags on 앱 개발 블로그</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Sat, 23 Sep 2017 17:28:03 +0900</lastBuildDate>
+    
+	<atom:link href="https://app.majorika.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Idris</title>
+      <link>https://app.majorika.net/tags/idris/</link>
+      <pubDate>Sat, 23 Sep 2017 17:28:03 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/tags/idris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tdd</title>
+      <link>https://app.majorika.net/tags/tdd/</link>
+      <pubDate>Sat, 23 Sep 2017 17:28:03 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/tags/tdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type Driven Development</title>
+      <link>https://app.majorika.net/tags/type-driven-development/</link>
+      <pubDate>Sat, 23 Sep 2017 17:28:03 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/tags/type-driven-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type Driven Development With Idris</title>
+      <link>https://app.majorika.net/tags/type-driven-development-with-idris/</link>
+      <pubDate>Sat, 23 Sep 2017 17:28:03 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/tags/type-driven-development-with-idris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity3d</title>
+      <link>https://app.majorika.net/tags/unity3d/</link>
+      <pubDate>Wed, 01 Feb 2017 21:16:03 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/tags/unity3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vstu Crash</title>
+      <link>https://app.majorika.net/tags/vstu-crash/</link>
+      <pubDate>Wed, 01 Feb 2017 21:16:03 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/tags/vstu-crash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>모두의관리</title>
+      <link>https://app.majorika.net/tags/%EB%AA%A8%EB%91%90%EC%9D%98%EA%B4%80%EB%A6%AC/</link>
+      <pubDate>Sun, 03 Jul 2016 01:38:53 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/tags/%EB%AA%A8%EB%91%90%EC%9D%98%EA%B4%80%EB%A6%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>이모콘720</title>
+      <link>https://app.majorika.net/tags/%EC%9D%B4%EB%AA%A8%EC%BD%98720/</link>
+      <pubDate>Sun, 03 Jul 2016 01:38:53 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/tags/%EC%9D%B4%EB%AA%A8%EC%BD%98720/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>이상한모임</title>
+      <link>https://app.majorika.net/tags/%EC%9D%B4%EC%83%81%ED%95%9C%EB%AA%A8%EC%9E%84/</link>
+      <pubDate>Sun, 03 Jul 2016 01:38:53 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/tags/%EC%9D%B4%EC%83%81%ED%95%9C%EB%AA%A8%EC%9E%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>함수형</title>
+      <link>https://app.majorika.net/tags/%ED%95%A8%EC%88%98%ED%98%95/</link>
+      <pubDate>Sat, 23 Sep 2017 17:28:03 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/tags/%ED%95%A8%EC%88%98%ED%98%95/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
