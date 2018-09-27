@@ -1,5 +1,7 @@
 @echo off
 
+rmdir /s /q docs
+
 hugo -d docs
 
 del docs\used-opensource\index.*

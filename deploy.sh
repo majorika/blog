@@ -1,3 +1,5 @@
+rm -fr docs
+
 # Build the project.
 hugo -d docs
 
