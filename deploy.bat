@@ -2,8 +2,8 @@
 
 hugo -d docs
 
-del public\used-opensource\index.*
-del public\what-i-made\index.*
+del docs\used-opensource\index.*
+del docs\what-i-made\index.*
 
 echo "Committing changes..."
 

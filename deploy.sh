@@ -1,8 +1,8 @@
 # Build the project.
 hugo -d docs
 
-rm ./public/used-opensource/index.*
-rm ./public/what-i-made/index.*
+rm ./docs/used-opensource/index.*
+rm ./docs/what-i-made/index.*
 
 echo -e "\033[0;32mCommitting changes...\033[0m"
 
