@@ -6,7 +6,7 @@
     <description>Recent content in Tags on 앱 개발 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 23 Sep 2017 17:28:03 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 04:04:03 +0900</lastBuildDate>
     
 	<atom:link href="https://app.majorika.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,36 +14,45 @@
     <item>
       <title>Idris</title>
       <link>https://app.majorika.net/tags/idris/</link>
-      <pubDate>Sat, 23 Sep 2017 17:28:03 +0900</pubDate>
+      <pubDate>Wed, 16 Aug 2017 04:04:03 +0900</pubDate>
       
       <guid>https://app.majorika.net/tags/idris/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tdd</title>
+      <title>TDD</title>
       <link>https://app.majorika.net/tags/tdd/</link>
-      <pubDate>Sat, 23 Sep 2017 17:28:03 +0900</pubDate>
+      <pubDate>Wed, 16 Aug 2017 04:04:03 +0900</pubDate>
       
       <guid>https://app.majorika.net/tags/tdd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Type Driven Development</title>
+      <title>Type-Driven Development</title>
       <link>https://app.majorika.net/tags/type-driven-development/</link>
-      <pubDate>Sat, 23 Sep 2017 17:28:03 +0900</pubDate>
+      <pubDate>Wed, 16 Aug 2017 04:04:03 +0900</pubDate>
       
       <guid>https://app.majorika.net/tags/type-driven-development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Type Driven Development With Idris</title>
+      <title>Type-Driven Development with Idris</title>
       <link>https://app.majorika.net/tags/type-driven-development-with-idris/</link>
-      <pubDate>Sat, 23 Sep 2017 17:28:03 +0900</pubDate>
+      <pubDate>Wed, 16 Aug 2017 04:04:03 +0900</pubDate>
       
       <guid>https://app.majorika.net/tags/type-driven-development-with-idris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>함수형</title>
+      <link>https://app.majorika.net/tags/%ED%95%A8%EC%88%98%ED%98%95/</link>
+      <pubDate>Wed, 16 Aug 2017 04:04:03 +0900</pubDate>
+      
+      <guid>https://app.majorika.net/tags/%ED%95%A8%EC%88%98%ED%98%95/</guid>
       <description></description>
     </item>
     
@@ -57,7 +66,7 @@
     </item>
     
     <item>
-      <title>Vstu Crash</title>
+      <title>vstu crash</title>
       <link>https://app.majorika.net/tags/vstu-crash/</link>
       <pubDate>Wed, 01 Feb 2017 21:16:03 +0900</pubDate>
       
@@ -89,15 +98,6 @@
       <pubDate>Sun, 03 Jul 2016 01:38:53 +0900</pubDate>
       
       <guid>https://app.majorika.net/tags/%EC%9D%B4%EC%83%81%ED%95%9C%EB%AA%A8%EC%9E%84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>함수형</title>
-      <link>https://app.majorika.net/tags/%ED%95%A8%EC%88%98%ED%98%95/</link>
-      <pubDate>Sat, 23 Sep 2017 17:28:03 +0900</pubDate>
-      
-      <guid>https://app.majorika.net/tags/%ED%95%A8%EC%88%98%ED%98%95/</guid>
       <description></description>
     </item>
     
