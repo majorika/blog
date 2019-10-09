@@ -6,6 +6,7 @@ hugo -d docs
 
 del docs\used-opensource\index.*
 del docs\what-i-made\index.*
+del docs\privacy\index.*
 
 echo "Committing changes..."
 

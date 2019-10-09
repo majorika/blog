@@ -5,6 +5,7 @@ hugo -d docs
 
 rm ./docs/used-opensource/index.*
 rm ./docs/what-i-made/index.*
+rm ./docs/privacy/index.*
 
 echo -e "\033[0;32mCommitting changes...\033[0m"
 
