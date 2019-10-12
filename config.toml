@@ -28,5 +28,5 @@ weight = 3
 
 [sitemap]
 changefreq = "monthly"
- priority = 0.5
- filename = "sitemap.xml"
+priority = 0.5
+filename = "sitemap.xml"
