@@ -1,32 +1,22 @@
 title = "앱 개발 블로그"
 baseurl = "https://app.majorika.net"
 languageCode = "ko"
-theme = "liquorice"
+theme = "kiera"
+canonifyurls = true
+copyright = "Copyright &copy; 2019 - majorika"
+
+paginate = 5
+
+summaryLength = 30
+pygmentsCodeFences = true
+enableEmoji = true
+
+[author]
+    name = "majorika"
+    github = "majorika"
+    twitter = "majorika"
+    instagram = "majorika_"
 
 [params]
-author = "majorika"
-description = "이런 저런 개발 이야기가 적히는 곳입니다."
-disqusShortname = "majorika"
-gaCode = "UA-80230888-1"
-twitter = "majorika"
-Locale = "ko_KR"
-
-[[menu.main]]
-name = "Archives"
-url = "https://app.majorika.net/posts"
-weight = 1
-
-[[menu.main]]
-name = "Twitter"
-url = "https://twitter.com/majorika"
-weight = 2
-
-[[menu.main]]
-name = "Github"
-url = "https://github.com/majorika"
-weight = 3
-
-[sitemap]
-changefreq = "monthly"
-priority = 0.5
-filename = "sitemap.xml"
+    tagline = "이런 저런 개발 이야기가 적히는 곳입니다"
+    description = "이런 저런 개발 이야기가 적히는 곳입니다."

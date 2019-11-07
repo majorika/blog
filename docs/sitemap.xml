@@ -1,74 +1,154 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://app.majorika.net/posts/</loc>
-		<lastmod>2017-08-16T04:04:03+09:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://app.majorika.net/posts/idris-study/</loc>
-		<lastmod>2017-08-16T04:04:03+09:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://app.majorika.net/posts/vstu-crash/</loc>
-		<lastmod>2017-02-01T21:16:03+09:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://app.majorika.net/posts/plans-for-2017/</loc>
-		<lastmod>2017-01-01T22:27:57+09:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://app.majorika.net/posts/brew-cask-migration-issue-21913/</loc>
-		<lastmod>2016-07-16T05:52:57+09:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://app.majorika.net/posts/emocon-720-review/</loc>
-		<lastmod>2016-07-21T21:13:00+09:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://app.majorika.net/posts/spring-again-livewallpaper/</loc>
-		<lastmod>2015-03-31T23:33:41+09:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://app.majorika.net/posts/a-room-for-lucia-ios/</loc>
-		<lastmod>2015-01-24T18:22:41+09:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://app.majorika.net/posts/wip-a-room-for-lucia-ios/</loc>
-		<lastmod>2014-12-11T01:58:41+09:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://app.majorika.net/posts/a-room-for-lucia-android/</loc>
-		<lastmod>2014-07-08T21:09:41+09:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://app.majorika.net/posts</loc>
-		<lastmod>2019-10-09T18:10:39+09:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>0.7</priority>
-	</url>
-	<url>
-		<loc>https://app.majorika.net</loc>
-		<lastmod>2019-10-09T18:10:39+09:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>1.0</priority>
-  	</url>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://app.majorika.net/privacy/a-room-for-lucia-ios/</loc>
+    <lastmod>2019-10-09T18:10:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/privacy/</loc>
+    <lastmod>2019-10-09T18:10:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/</loc>
+    <lastmod>2019-10-09T18:10:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/idris/</loc>
+    <lastmod>2017-08-16T04:04:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/posts/</loc>
+    <lastmod>2017-08-16T04:04:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/</loc>
+    <lastmod>2017-08-16T04:04:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/tdd/</loc>
+    <lastmod>2017-08-16T04:04:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/type-driven-development/</loc>
+    <lastmod>2017-08-16T04:04:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/type-driven-development-with-idris/</loc>
+    <lastmod>2017-08-16T04:04:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/posts/idris-study/</loc>
+    <lastmod>2017-08-16T04:04:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/%ED%95%A8%EC%88%98%ED%98%95/</loc>
+    <lastmod>2017-08-16T04:04:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/unity3d/</loc>
+    <lastmod>2017-02-01T21:16:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/posts/vstu-crash/</loc>
+    <lastmod>2017-02-01T21:16:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/vstu-crash/</loc>
+    <lastmod>2017-02-01T21:16:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/posts/plans-for-2017/</loc>
+    <lastmod>2017-01-01T22:27:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/posts/brew-cask-migration-issue-21913/</loc>
+    <lastmod>2016-07-16T05:52:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/%EB%AA%A8%EB%91%90%EC%9D%98%EA%B4%80%EB%A6%AC/</loc>
+    <lastmod>2016-07-21T21:13:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/posts/emocon-720-review/</loc>
+    <lastmod>2016-07-21T21:13:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/%EC%9D%B4%EB%AA%A8%EC%BD%98720/</loc>
+    <lastmod>2016-07-21T21:13:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/%EC%9D%B4%EC%83%81%ED%95%9C%EB%AA%A8%EC%9E%84/</loc>
+    <lastmod>2016-07-21T21:13:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/used-opensource/spring-again-android/</loc>
+    <lastmod>2016-06-24T04:48:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/used-opensource/</loc>
+    <lastmod>2016-06-24T04:48:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/used-opensource/abyss-magazine-ios/</loc>
+    <lastmod>2016-06-23T18:18:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/used-opensource/a-room-for-lucia-android/</loc>
+    <lastmod>2016-06-23T18:17:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/used-opensource/a-room-for-lucia-ios/</loc>
+    <lastmod>2016-06-23T18:17:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/posts/spring-again-livewallpaper/</loc>
+    <lastmod>2015-03-31T23:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/posts/a-room-for-lucia-ios/</loc>
+    <lastmod>2015-01-24T18:22:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/posts/wip-a-room-for-lucia-ios/</loc>
+    <lastmod>2014-12-11T01:58:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/posts/a-room-for-lucia-android/</loc>
+    <lastmod>2014-07-08T21:09:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/categories/</loc>
+  </url>
+  
 </urlset>
