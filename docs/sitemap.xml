@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://app.majorika.net/privacy/a-room-for-lucia-ios/</loc>
-    <lastmod>2019-10-09T18:10:39+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://app.majorika.net/privacy/</loc>
-    <lastmod>2019-10-09T18:10:39+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://app.majorika.net/</loc>
-    <lastmod>2019-10-09T18:10:39+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://app.majorika.net/tags/idris/</loc>
     <lastmod>2017-08-16T04:04:03+09:00</lastmod>
   </url>
@@ -49,6 +34,11 @@
   
   <url>
     <loc>https://app.majorika.net/posts/idris-study/</loc>
+    <lastmod>2017-08-16T04:04:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/</loc>
     <lastmod>2017-08-16T04:04:03+09:00</lastmod>
   </url>
   
@@ -100,31 +90,6 @@
   <url>
     <loc>https://app.majorika.net/tags/%EC%9D%B4%EC%83%81%ED%95%9C%EB%AA%A8%EC%9E%84/</loc>
     <lastmod>2016-07-21T21:13:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://app.majorika.net/used-opensource/spring-again-android/</loc>
-    <lastmod>2016-06-24T04:48:07+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://app.majorika.net/used-opensource/</loc>
-    <lastmod>2016-06-24T04:48:07+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://app.majorika.net/used-opensource/abyss-magazine-ios/</loc>
-    <lastmod>2016-06-23T18:18:34+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://app.majorika.net/used-opensource/a-room-for-lucia-android/</loc>
-    <lastmod>2016-06-23T18:17:39+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://app.majorika.net/used-opensource/a-room-for-lucia-ios/</loc>
-    <lastmod>2016-06-23T18:17:27+09:00</lastmod>
   </url>
   
   <url>

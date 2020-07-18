@@ -5,35 +5,24 @@
 <head>
   <title>앱 개발 블로그</title>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="이런 저런 개발 이야기가 적히는 곳입니다." />
-  <meta name="author" content="majorika" /><meta name="generator" content="Hugo 0.60.0-DEV" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="이런 저런 개발 이야기가 적히는 곳입니다." />
+<meta name="author" content="majorika" /><meta property="og:title" content="Visual Studio 2015 Tools for Unity Crash" />
+<meta property="og:description" content="어느날 갑자기 VS2015가 크래시가 나기 시작했다면," />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://app.majorika.net/posts/vstu-crash/" />
+<meta property="article:published_time" content="2017-02-01T21:16:03+09:00" />
+<meta property="article:modified_time" content="2017-02-01T21:16:03+09:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Visual Studio 2015 Tools for Unity Crash"/>
+<meta name="twitter:description" content="어느날 갑자기 VS2015가 크래시가 나기 시작했다면,"/>
+
+<meta name="generator" content="Hugo 0.74.2" />
     
 
-  <meta property="og:title" content="&#39;루시아의 방&#39; 개인정보 처리 방침" />
-<meta property="og:description" content="개인정보의 처리 목적
-이 앱은 별도의 개인정보를 수집하지 않습니다.
- 개인정보 파일 현황
-이 앱은 별도의 개인정보를 수집하지 않습니다.
- 개인정보의 처리 및 보유기간
-이 앱은 별도의 개인정보를 수집하지 않습니다." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://app.majorika.net/privacy/a-room-for-lucia-ios/" />
-<meta property="article:published_time" content="2019-10-09T18:10:39+09:00" />
-<meta property="article:modified_time" content="2019-10-09T18:10:39+09:00" />
-
-  <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="&#39;루시아의 방&#39; 개인정보 처리 방침"/>
-<meta name="twitter:description" content="개인정보의 처리 목적
-이 앱은 별도의 개인정보를 수집하지 않습니다.
- 개인정보 파일 현황
-이 앱은 별도의 개인정보를 수집하지 않습니다.
- 개인정보의 처리 및 보유기간
-이 앱은 별도의 개인정보를 수집하지 않습니다."/>
-
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css" />
-  <script src="https://kit.fontawesome.com/b76b73e8e8.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://app.majorika.net/fontawesome/css/all.min.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
   <link rel="stylesheet" type="text/css" href="https://app.majorika.net/css/styles.css" /></head>
 
@@ -45,15 +34,21 @@
             </h1>
 
       <ul id="social-media">
-        
-        
-        
-        <li><a href="https://twitter.com/majorika"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
-          
-        <li><a href="https://github.com/majorika"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a></li>
-           
-        <li><a href="https://instagram.com/majorika_"><i class="fab fa-instagram fa-lg" aria-hidden="true"></i></a></li>
-        
+             <li>
+               <a href="https://github.com/majorika" title="GitHub">
+               <i class="fab fa-github fa-lg"></i>
+               </a>
+             </li>
+             <li>
+               <a href="https://twitter.com/majorika" title="Twitter">
+               <i class="fab fa-twitter fa-lg"></i>
+               </a>
+             </li>
+             <li>
+               <a href="https://www.instagram.com/majorika_" title="Instagram">
+               <i class="fab fa-instagram fa-lg"></i>
+               </a>
+             </li>
       </ul>
       
       <p><em>이런 저런 개발 이야기가 적히는 곳입니다</em></p>
@@ -67,6 +62,7 @@
     </ul>
 </nav>
 
+
     <main>
 
 
@@ -77,7 +73,7 @@
     <h1>Visual Studio 2015 Tools for Unity Crash</h1>
 
     
-        <aside>
+      <aside>
     <ul>
         <li>
             <time class="post-date" datetime="2017-02-01T21:16:03&#43;09:00">Feb 1, 2017</time>
@@ -104,20 +100,17 @@
 
     
 
+    
+
+
     <p>회사에서는 주로 윈도우에서 Visual Studio 2015를 사용해서 작업을 하고 있습니다. VSTU (Visual Studio 2015 Tools for Unity) 2.8.2.0 버전이 업데이트 나와서 설치하고 설 연휴를 쉬고 돌아와서 코딩을 시작하려는데 <code>public</code>을 치려고 <code>pub</code>까지 타이핑되고 자동완성을 시도하면서 크래시가 발생했습니다. 귀찮음에 팝업 내용은 자세히 읽지 않고 여러번 재시도 해봤지만, 같은 메시지를 내뱉고는 계속 크래시가 발생해서 오류 로그 파일을 찾아보니,</p>
-
 <pre><code>&quot;System.IO.FileLoadException: Could not load file or assembly SyntaxTree.VisualStudio.Unity, Version=2.8.1.0...&quot;
-</code></pre>
-
-<p>위와 같은 로그가 남아 있었습니다. VSTU가 업데이트 되어서 생긴 문제인 줄 알고 삭제했다가 다시 이전 버전을 깔아보았지만, 계속 크래시는 발생했고, 구글링 해보니 VSTU 다운로드 페이지 댓글에 해결법이 적혀 있었습니다. 이유는 MEF 캐시가 손상되어서 발생한 것이었고, 확장 기능을 설치할 때 종종 발생한다는 내용이었습니다. 해결 방법은 <code>%localappdata%\Microsoft\VisualStudio\14.0\ComponentModelCache</code> 경로에 있는 캐시를 삭제해주는 것. 해당 경로로 들어가 파일을 전부 삭제하고 재실행해보니 캐시를 재생성하고 정상 동작 되었습니다.</p>
-
+</code></pre><p>위와 같은 로그가 남아 있었습니다. VSTU가 업데이트 되어서 생긴 문제인 줄 알고 삭제했다가 다시 이전 버전을 깔아보았지만, 계속 크래시는 발생했고, 구글링 해보니 VSTU 다운로드 페이지 댓글에 해결법이 적혀 있었습니다. 이유는 MEF 캐시가 손상되어서 발생한 것이었고, 확장 기능을 설치할 때 종종 발생한다는 내용이었습니다. 해결 방법은 <code>%localappdata%\Microsoft\VisualStudio\14.0\ComponentModelCache</code> 경로에 있는 캐시를 삭제해주는 것. 해당 경로로 들어가 파일을 전부 삭제하고 재실행해보니 캐시를 재생성하고 정상 동작 되었습니다.</p>
 <p>혹시라도 이 방법으로 해결되지 않는다면,</p>
-
 <ol>
 <li><code>Developer Command Prompt for VS201</code>을 관리자 권한으로 실행</li>
 <li><code>devenv /setup</code> 실행</li>
 </ol>
-
 <p>참고 : <a href="https://marketplace.visualstudio.com/items?itemName=SebastienLebreton.VisualStudio2015ToolsforUnity">https://marketplace.visualstudio.com/items?itemName=SebastienLebreton.VisualStudio2015ToolsforUnity</a></p>
 
 
@@ -138,7 +131,10 @@
         
     </ul>
 </section>
+  
     
+    
+  
 
 
 
@@ -146,7 +142,7 @@
 
 </main>
     <footer>
-        <h6>Copyright &copy; 2019 - majorika |
+        <h6>Copyright © 2019 - majorika |
             Rendered by <a href="https://gohugo.io" title="Hugo">Hugo</a> |
             <a href="https://app.majorika.netindex.xml">Subscribe </a></h6>
     </footer>
