@@ -3,7 +3,7 @@ baseurl = "https://app.majorika.net"
 languageCode = "ko"
 theme = "kiera"
 canonifyurls = true
-copyright = "Copyright &copy; 2019 - majorika"
+copyright = "Copyright &copy; 2020 - majorika"
 
 paginate = 5
 

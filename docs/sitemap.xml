@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://app.majorika.net/tags/idris/</loc>
-    <lastmod>2017-08-16T04:04:03+09:00</lastmod>
+    <loc>https://app.majorika.net/posts/mid-2020/</loc>
+    <lastmod>2020-07-19T02:54:41+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://app.majorika.net/posts/</loc>
-    <lastmod>2017-08-16T04:04:03+09:00</lastmod>
+    <lastmod>2020-07-19T02:54:41+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://app.majorika.net/tags/</loc>
+    <lastmod>2020-07-19T02:54:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/%EB%A3%A8%EC%8B%9C%EC%95%84%EC%9D%98-%EB%B0%A9/</loc>
+    <lastmod>2020-07-19T02:54:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/%EC%8B%AC%EA%B7%9C%EC%84%A0/</loc>
+    <lastmod>2020-07-19T02:54:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/</loc>
+    <lastmod>2020-07-19T02:54:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/%ED%83%88%EA%B2%8C%EC%9E%84/</loc>
+    <lastmod>2020-07-19T02:54:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://app.majorika.net/tags/idris/</loc>
     <lastmod>2017-08-16T04:04:03+09:00</lastmod>
   </url>
   
@@ -34,11 +59,6 @@
   
   <url>
     <loc>https://app.majorika.net/posts/idris-study/</loc>
-    <lastmod>2017-08-16T04:04:03+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://app.majorika.net/</loc>
     <lastmod>2017-08-16T04:04:03+09:00</lastmod>
   </url>
   
