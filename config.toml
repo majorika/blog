@@ -4,6 +4,7 @@ languageCode = "ko"
 theme = "kiera"
 canonifyurls = true
 copyright = "Copyright &copy; 2021 - majorika"
+DefaultContentLanguage = "ko"
 
 paginate = 5
 
