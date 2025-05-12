@@ -3,7 +3,7 @@ baseurl = "https://app.majorika.net"
 languageCode = "ko"
 theme = "kiera"
 canonifyurls = true
-copyright = "Copyright &copy; 2023 - majorika"
+copyright = "Copyright &copy; 2025 - majorika"
 DefaultContentLanguage = "ko"
 
 paginate = 5
@@ -15,7 +15,6 @@ enableEmoji = true
 [author]
     name = "majorika"
     github = "majorika"
-    twitter = "majorika"
     instagram = "majorika_"
 
 [params]
